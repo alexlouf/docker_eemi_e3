@@ -1,4 +1,4 @@
-# DOCKER EEMI E1
+# DOCKER EEMI E3
 
 Simple NGINX container with customized landing page
 
